@@ -3,9 +3,9 @@
 ![Versions](https://img.shields.io/badge/versions->=7.3-333333.svg?style=flat-square)
 [![Twitter](https://img.shields.io/badge/twitter-@StevenWatremez-blue.svg?style=flat-square)](http://twitter.com/StevenWatremez)
 
----
-
 <img alt="Xcode_8.3.2" src="img/dock.png"  height="64" />
+
+---
 
 ## Description
 With this repo you could find your way to differentiate your **Xcode** version on your mac. There are several icons to enjoy from `7.2` to `8.3.2`. 
