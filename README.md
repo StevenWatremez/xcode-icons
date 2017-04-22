@@ -5,7 +5,9 @@
 
 ---
 
-## Assets
+<img alt="Xcode_8.3.2" src="img/dock.png"  height="64" />
+
+## Description
 With this repo you could find your way to differentiate your **Xcode** version on your mac. There are several icons to enjoy from `7.2` to `8.3.2`. 
 
 ## Usage
@@ -24,9 +26,6 @@ With this repo you could find your way to differentiate your **Xcode** version o
 |`7.2`    | <img alt="Xcode_7.2" src="generated-icons/Xcode_7.2/Assets/512x512.png" width="64" height="64" />         | `.hqx` [file](generated-icons/Xcode_7.2/Xcode_7.2.hqx)         |`.ico` [file](generated-icons/Xcode_7.2/Assets/Xcode_7.2.ico) |`.png` [file](generated-icons/Xcode_7.2/Assets/512x512.png) |
 |gray    | <img alt="Xcode_gray" src="generated-icons/Xcode_gray/Assets/512x512.png" width="64" height="64" />         | `.hqx` [file](generated-icons/Xcode_gray/Xcode_gray.hqx)         |`.ico` [file](generated-icons/Xcode_gray/Xcode_gray.ico) |[`.png` [file](generated-icons/Xcode_gray/Assets/512x512.png) |
 
-
 ## Links
 
-Use this [converter](https://iconverticons.com/online/) to convert `.png` to `.hqx`. You can convert also to .ico or generate Assets of your icons with this converter. 
-
-## License
+I Use this [converter](https://iconverticons.com/online/) to convert `.png` to `.hqx`. You can convert also to .ico or generate Assets of your icons with this converter. 
