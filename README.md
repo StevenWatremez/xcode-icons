@@ -24,7 +24,7 @@ With this repo you could find your way to differentiate your **Xcode** version o
 |`8`    | <img alt="Xcode_8" src="generated-icons/Xcode_8/Assets/512x512.png" width="64" height="64" />         | `.hqx` [file](generated-icons/Xcode_8/Xcode_8.hqx)         |`.ico` [file](generated-icons/Xcode_8/Assets/Xcode_8.ico) |`.png` [file](generated-icons/Xcode_8/Assets/512x512.png) |
 |`7.3`    | <img alt="Xcode_7.3" src="generated-icons/Xcode_7.3/Assets/512x512.png" width="64" height="64" />         | `.hqx` [file](generated-icons/Xcode_7.3/Xcode_7.3.hqx)         |`.ico` [file](generated-icons/Xcode_7.3/Assets/Xcode_7.3.ico) |`.png` [file](generated-icons/Xcode_7.3/Assets/512x512.png) |
 |`7.2`    | <img alt="Xcode_7.2" src="generated-icons/Xcode_7.2/Assets/512x512.png" width="64" height="64" />         | `.hqx` [file](generated-icons/Xcode_7.2/Xcode_7.2.hqx)         |`.ico` [file](generated-icons/Xcode_7.2/Assets/Xcode_7.2.ico) |`.png` [file](generated-icons/Xcode_7.2/Assets/512x512.png) |
-|gray    | <img alt="Xcode_gray" src="generated-icons/Xcode_gray/Assets/512x512.png" width="64" height="64" />         | `.hqx` [file](generated-icons/Xcode_gray/Xcode_gray.hqx)         |`.ico` [file](generated-icons/Xcode_gray/Xcode_gray.ico) |[`.png` [file](generated-icons/Xcode_gray/Assets/512x512.png) |
+|gray    | <img alt="Xcode_gray" src="generated-icons/Xcode_gray/Assets/512x512.png" width="64" height="64" />         | `.hqx` [file](generated-icons/Xcode_gray/Xcode_gray.hqx)         |`.ico` [file](generated-icons/Xcode_gray/AssetsXcode_gray.ico) |`.png` [file](generated-icons/Xcode_gray/Assets/512x512.png) |
 
 ## Links
 
