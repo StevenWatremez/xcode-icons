@@ -11,7 +11,7 @@
 With this repo you could find your way to differentiate your **Xcode** version on your mac. There are several icons to enjoy from `7.2` to `8.3.2`. 
 
 ## Usage
-You need to choose an icon. For example you want to customize **Xcode 8.3.2** icon. Download `generated-icons/Xcode_8.3.2/Xcode_8.3.2` file. Don't mind about why there is no extension (it's a binary versions of icon) or why there are text inside, trust me it's the right file 🤓.
+You need to choose an icon. For example you want to customize **Xcode 8.3.2** icon. Download `generated-icons/Xcode_8.3.2/Xcode_8.3.2` file. Don't mind about why there is no extension (it's a binary version of the icon) or why there is text inside, trust me it's the right file 🤓.
 
 #### Step 1: Copy the icon to the clipboard
 - Right click on **icon** file from the **Finder**.
@@ -30,7 +30,7 @@ You need to choose an icon. For example you want to customize **Xcode 8.3.2** ic
 
 
 ## Assets
-You have several assets to satisfy your needed. If you want more, create an issue, I will create it for you 😜 !
+You have several assets to satisfy your needs. If you want more, create an issue, I will create it for you 😜 !
 
 | Xcode version |    Icon    |        download icon         |        download `.ico`         |        download `.png` (512x512)      |
 |:-------------:|:----------:|:---------------------------------:|:---------------------------------:|:----------------------------------------:|
@@ -46,5 +46,5 @@ You have several assets to satisfy your needed. If you want more, create an issu
 ## Links
 If you want to create an icon like me and fork to submit a Pull Request you need :
 
-- A Designer application (**Paint** can be your friend 😎). I use [Affinity Designer](https://affinity.serif.com/en-us/designer/). 
+- A Design application (**Paint** can be your friend 😎). I use [Affinity Designer](https://affinity.serif.com/en-us/designer/). 
 - I recommand to you this [converter](https://iconverticons.com/online/) to convert `.png` to `.hqx` (compress format to store binary versions of images, documents, and multimedia files). You can convert also to `.ico` or generate Assets of your icons.
