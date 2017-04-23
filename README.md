@@ -8,7 +8,7 @@
 ---
 
 ## Description
-With this repo you could find your way to differentiate your **Xcode** version on your mac. There are several icons to enjoy from `7.2` to `8.3.2`. 
+With this repo you could find your way to differentiate your **Xcode** versions on your mac. There are several icons to enjoy from `7.2` to `8.3.2`. 
 
 ## Usage
 You need to choose an icon. For example you want to customize **Xcode 8.3.2** icon. Download `generated-icons/Xcode_8.3.2/Xcode_8.3.2` file. Don't mind about why there is no extension (it's a binary version of the icon) or why there is text inside, trust me it's the right file 🤓.
