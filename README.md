@@ -17,14 +17,14 @@ You need to choose an icon. For example you want to customize **Xcode 8.3.2** ic
 - Right click on **icon** file from the **Finder**.
 - Choose **Get Info** from the **File** menu.
 - In the info window that pops up, **click on the icon**. At the top left hand corner.
-- Choose **Copy** from the **Edit** menu.
+- Choose **Copy** from the **Edit** menu **OR** `CMD + C` 
 
 #### Step 2: Paste the icon to the desired item
 - Go to the **Xcode application** in the **Finder** that you want a custom icon.
 - Right click on it.
 - Choose **Get Info** from the **File** menu.
 - In the info window that pops up, **click on the icon**. At the top left hand corner.
-- Choose **Paste** from the **Edit** menu.
+- Choose **Paste** from the **Edit** menu **OR** `CMD + V`
 
 #### Step 3: Enjoy your newly customized icon!
 
