@@ -48,3 +48,7 @@ If you want to create an icon like me and fork to submit a Pull Request you need
 
 - A Design application (**Paint** can be your friend 😎). I use [Affinity Designer](https://affinity.serif.com/en-us/designer/). 
 - I recommand to you this [converter](https://iconverticons.com/online/) to convert `.png` to `.hqx` (compress format to store binary versions of images, documents, and multimedia files). You can convert also to `.ico` or generate Assets of your icons.
+
+TIPS : when you use converter to generate `.icns` follow this instructions in this order :
+- First step is to generate icns(finder ready)
+- Second step is to generate icns
