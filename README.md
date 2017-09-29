@@ -28,12 +28,12 @@ You need to choose an icon. For example you want to customize **Xcode 8.3.2** ic
 
 #### Step 3: Enjoy your newly customized icon!
 
-
 ## Assets
 You have several assets to satisfy your needs. If you want more, create an issue, I will create it for you 😜 !
 
 | Xcode version |    Icon    |        download icon         |        download `.ico`         |        download `.png` (512x512)      |
 |:-------------:|:----------:|:---------------------------------:|:---------------------------------:|:----------------------------------------:|
+|`9 GM`| <img alt="Xcode_9_GM" src="modified-icons/Xcode_9GM.png" width="64" height="64" /> |  [file](generated-icons/Xcode_8.3.2/Xcode_8.3.2) |`.ico` [file](generated-icons/Xcode_8.3.2/Assets/Xcode_9GM.ico) |`.png` [file](generated-icons/Xcode_9GM/Assets/512x512.png) |
 |`8.3.2`| <img alt="Xcode_8.3.2" src="modified-icons/Xcode_8.3.2.png" width="64" height="64" /> |  [file](generated-icons/Xcode_8.3.2/Xcode_8.3.2) |`.ico` [file](generated-icons/Xcode_8.3.2/Assets/Xcode_8.3.2.ico) |`.png` [file](generated-icons/Xcode_8.3.2/Assets/512x512.png) |
 |`8.3.1`| <img alt="Xcode_8.3.1" src="modified-icons/Xcode_8.3.1.png" width="64" height="64" /> | [file](generated-icons/Xcode_8.3.1/Xcode_8.3.1) |`.ico` [file](generated-icons/Xcode_8.3.1/Assets/Xcode_8.3.1.ico) |`.png` [file](generated-icons/Xcode_8.3.1/Assets/512x512.png) |
 |`8.2.1`| <img alt="Xcode_8.2.1" src="modified-icons/Xcode_8.2.1.png" width="64" height="64" /> | [file](generated-icons/Xcode_8.2.1/Xcode_8.2.1) |`.ico` [file](generated-icons/Xcode_8.2.1/Assets/Xcode_8.2.1.ico) |`.png` [file](generated-icons/Xcode_8.2.1/Assets/512x512.png) |
@@ -49,6 +49,8 @@ If you want to create an icon like me and fork to submit a Pull Request you need
 - A Design application (**Paint** can be your friend 😎). I use [Affinity Designer](https://affinity.serif.com/en-us/designer/). 
 - I recommand to you this [converter](https://iconverticons.com/online/) to convert `.png` to `.hqx` (compress format to store binary versions of images, documents, and multimedia files). You can convert also to `.ico` or generate Assets of your icons.
 
-TIPS : when you use converter to generate `.icns` follow this instructions in this order :
+TIP : when you use converter to generate `.icns` follow this instructions in this order :
+
+
 - First step is to generate icns(finder ready)
 - Second step is to generate icns
